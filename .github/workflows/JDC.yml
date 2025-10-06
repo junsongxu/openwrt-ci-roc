@@ -1,4 +1,4 @@
-name: IPQ60XX-LibWrt
+name: JDC
 
 on:
   workflow_dispatch:
